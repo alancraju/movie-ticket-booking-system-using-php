@@ -1,0 +1,1 @@
+<!-- Movie sidebar content -->
